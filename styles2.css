@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-size: 100px
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+a{
+    color: blue;
+    align-items: center;
+}
+
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    text-align: center;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+iframe{
+    float: center;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: left;
+    font-size: 30px
+}
+
+ul{
+    list-style-position: inside;
+    text-align: left;
+    font-size: 30px;
+}
+
+.column {
+    width: 30%;
+    padding: 5px;
+  }
+
+  img {
+    width: 100%;
+    text-align: center;
+  }	
+
+
+
